@@ -9,7 +9,7 @@ Dado dos números informar cuál es el mayor.
   
 ## Algoritmo:
 
-  ![image](https://plus.google.com/102696829888251001526/posts/eauATXJjjFS)
+  ![image](https://lh3.googleusercontent.com/-Q75h3lGn-Rg/WOvTOUjLvmI/AAAAAAAAGWU/pKx3C9-AltEL_JqVsNcNzj44yGhS8thAACJoC/w382-h429-p-rw/Mayor.png)
 
 
 ###### [Extensión Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
