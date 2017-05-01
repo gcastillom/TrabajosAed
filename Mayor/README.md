@@ -1,19 +1,19 @@
 # Adición
 
 ## Enunciado:
-Escribir los pasos para mostrar la suma de dos números que ingresó el usuario.
+Dado dos números informar cuál es el mayor.
+
+
 
 ## Análisis:
   
-  ![image](https://lh3.googleusercontent.com/bwCU11mMaKejZ25DpMilFnyImHe6rkq9vxHBWNclXqPC7WyFLXJcCYF2ojSdvrTzBFmB_6QV=s0 "Proceso.png")
-    
-   a, b, c $\in  \mathbb{R}$, donde c es la suma de a y b.
+  Léxico: a, b $\in  \mathbb{R}$
+  
+  ![image](https://lh3.googleusercontent.com/-8XVcErGP5Zo/WOvbINp8a-I/AAAAAAAAGXY/M0H3itUshcMx0BskcobnQsiBsFkhmPw_ACJoC/w335-h150-p-rw/Sin%2Bt%25C3%25ADtulo.png)
   
 ## Algoritmo:
-  - Leer a
-  - Leer b
-  - c $\leftarrow$ a+b
-  - Escribir c
+
+  ![image](https://lh3.googleusercontent.com/-Q75h3lGn-Rg/WOvTOUjLvmI/AAAAAAAAGWU/pKx3C9-AltEL_JqVsNcNzj44yGhS8thAACJoC/w382-h429-p-rw/Mayor.png)
 
 
 ###### [Extensión Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
