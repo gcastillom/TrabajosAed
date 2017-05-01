@@ -1,10 +1,8 @@
-//============================================================================
-// Name        : String.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/* String.cpp
+Operar con strings.
+Grupo #2
+04-04-2017
+*/
 
 #include <iostream>
 #include <string>
