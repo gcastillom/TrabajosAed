@@ -1,7 +1,7 @@
 /* String.cpp
 Operar con strings.
 Grupo #2
-04-04-2017
+04-05-2017
 */
 
 #include <iostream>
